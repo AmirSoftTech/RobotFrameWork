@@ -12,7 +12,7 @@ ${pwd}    tutorial
 LoginTest
     Open my Browser    ${SiteUrl}    ${Browser}
     Enter UserName    ${user}
-    Enter Password    ${user}
+    Enter Password    ${pwd}
     Click SignIn
     sleep    3s
     Verify Successfull Login
