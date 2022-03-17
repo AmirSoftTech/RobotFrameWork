@@ -24,3 +24,5 @@ LoginTest
     Verify Successful Login
     Close my Browsers
 
+*** Keywords ***
+
