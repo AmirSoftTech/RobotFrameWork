@@ -19,5 +19,3 @@ TestingInputBox
 
     sleep    3
     close browser
-
-*** Keywords ***
