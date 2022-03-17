@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation    Login functionality
+Documentation    Login functionality verification
 Resource    ../Resources/login1.robot
 Resource    ../Resources/login2.robot
 Resource    ../Resources/adminpage.robot
